@@ -19,7 +19,7 @@ Para construir essa aplicação, decidi pelo React, por ser mais simples na cons
 * git install (para instalar as dependencias)
 * npm start (iniciando a aplicação em Localhost:3000)
 
-Infelizmente não consegui completar todas as fases da aplicação, mas me orgulho por ter chego até aqui, principalmente num notebook de quase 10 anos, processador atom e 2 gigas de ram, rodando o Lubunto e construído totalmente com o Sublime-Text. Percebi o quão sou adaptável as mudanças. Queria ter feito muito mais, como banco de dados e as implementações, mas foi incrível, apesar das limitações. Agradeço a Venturus por essa oportunidade. 
+Infelizmente não consegui completar todas as fases da aplicação, mas me orgulho por ter chego até aqui, rodandono Lubunto e construído totalmente com o Sublime-Text. Percebi o quão sou adaptável as mudanças. Queria ter feito muito mais, como banco de dados e as implementações, mas foi incrível, apesar das limitações. Agradeço a Venturus por essa oportunidade. 
 
 
 

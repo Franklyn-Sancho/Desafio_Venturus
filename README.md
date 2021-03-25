@@ -1,3 +1,28 @@
+<h1 align="center">Desafio Venturus</h1>
+
+Aplicação criada durante o teste técnico para desenvolvedor FrontEnd na Venturus: https://www.venturus.org.br/ (para quem quiser saber mais sobre a empresa). O objetivo dessa aplicação é montar times de futebol, tendo como base de dados o consumo de uma API. 
+Para construir essa aplicação, decidi pelo React, por ser mais simples na construção de componentes de página, usando como rota o router-react e router-react-dom. Quanto ao CSS não usei nenhuma biblioteca ou framework. 
+
+## Tecnologias usadas na construção dessa aplicação 
+
+* ReactJS
+* JavaScript
+* HTML
+* CSS
+* Router-react
+* Axios
+
+## Para iniciar a aplicação
+
+* Git clone
+* Cd (repositorio)
+* git install (para instalar as dependencias)
+* npm start (iniciando a aplicação em Localhost:3000)
+
+Infelizmente não consegui completar todas as fases da aplicação, mas me orgulho por ter chego até aqui, principalmente num notebook de quase 10 anos, processador atom e 2 gigas de ram, rodando o Lubunto e construído totalmente com o Sublime-Text. Percebi o quão sou adaptável as mudanças. Queria ter feito muito mais, como banco de dados e as implementações, mas foi incrível, apesar das limitações. Agradeço a Venturus por essa oportunidade. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

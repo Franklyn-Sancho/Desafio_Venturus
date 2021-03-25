@@ -1,0 +1,34 @@
+
+header.header {
+    background: linear-gradient(to right, #BB05F7, #FA2D2D);
+   	padding: 0 35px;
+   	height: 60px;
+
+}
+
+header.header .title {
+	position: absolute;
+	top: 20px;
+	margin-left: 45px;
+	color: white;
+	font-size: 20px;
+
+}
+
+
+header.header .icon {
+	position: absolute;
+	top: 5px;
+	margin: 18px;
+	right: 40px;
+	color: white;
+
+}
+
+img {
+
+	height: 30px;
+	margin-top: 15px;
+}
+
+

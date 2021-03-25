@@ -1,0 +1,22 @@
+.group-create {
+	display: grid;
+  	grid-template-columns: 1fr 1fr;
+  	grid-template-rows: 0.2fr 2.6fr 0.2fr;
+  	gap: 0px 0px;
+  	grid-template-areas:
+    	"header header"
+    	"maincreate maincreate"
+    	"footer footer";
+    height: 100vh;
+    background: #f3eae8;
+}
+
+.footer { 
+	grid-area: footer; 
+}
+.header { 
+	grid-area: header; 
+}
+.maincreate { 
+	grid-area: maincreate; 
+}

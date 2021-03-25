@@ -10,11 +10,12 @@ const initialState = {
 	list: []
 }
 
+function teamCreate() {
+	window.location.replace('/teams');
+}
+
 export default class Main extends Component {
 
-	save() {
-		const team = this.state.team
-	}
 
 	renderTable() {
 		return(
@@ -23,7 +24,7 @@ export default class Main extends Component {
 				<div className="teams1">
 					<strong>My teams</strong>
 					<Link to="/teams">	
-						<button onClick={ TeamsCreate }>
+						<button onClick="teamCreate();">
 							+
 						</button>
 					</Link>
